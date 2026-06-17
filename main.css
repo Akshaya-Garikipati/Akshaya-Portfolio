@@ -103,6 +103,16 @@
     border: solid 1px rgb(255, 111, 0);
     transform: translateY(-8px);
 }
+.project-card a{
+    text-decoration: none;
+    background-color:rgb(39 39 42 / var(--tw-bg-opacity, 1));
+    color: white;
+}
+.project-card a:visited{
+    background-color:rgb(39 39 42 / var(--tw-bg-opacity, 1));
+    text-decoration: none;
+    color: white;
+}
 .more-projects{
     color: rgb(255, 111, 0);
 }
